@@ -1,24 +1,8 @@
 # vue-weather
 
+Appli réalisée avec VueJS permettant d'afficher la météo actuelle en fonction de la géolocalisation approximative (API JS) de l'utilisateur, grâce à weatherbit.io
+
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- npm install pour installer les dépendances
+- npm run serve pour lancer le projet
